@@ -1,2 +1,2 @@
-This is my portfolio website that gives a vivid description of the projects i have worked on 
-
+This is my portfolio website which gives a vivid description about the projects 
+I have worked on. 
