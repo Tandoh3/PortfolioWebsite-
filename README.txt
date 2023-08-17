@@ -9,5 +9,6 @@ The data projects are as follows
 In this project, I obainted the data from the Nashville database.  
 2. Tableau Covid-19 Data Visualization
 3. Covid 19 Data Exploration in SQL 
+The pandemic brought about alot of changes in the way data analytics is viewed. 
 4. Data Exploration of 2015 New York Trees Census dataset using python 
 5. Data Cleaning of 2015 New York Trees Census dataset using python 
